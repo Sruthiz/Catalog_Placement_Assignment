@@ -1,0 +1,14 @@
+{
+  "name": "catalog_placement_assignment",
+  "version": "1.0.0",
+  "description": "**\"Simplified implementation of Shamir's Secret Sharing algorithm . Computes the constant term of a polynomial  from encoded roots.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
